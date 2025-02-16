@@ -8,19 +8,19 @@ The Repositories includes five files
 
 (1) my_kstest2:   Two-sample Kolmogorov-Smirnov goodness-of-fit hypothesis test;
 
-(2)cal_TFE_mon_demo.m :   The Core function to calculate UWS, which must be placed in current working directory;
+(2) cal_TFE_mon_demo.m :   The Core function to calculate UWS, which must be placed in current working directory;
 
-(3)demo_plot_Fig.s1_4x1_method.m :  The demo code calculating the UIWS, UDWS, UFWS, and WS, please see Fig.s1;
+(3) demo_plot_Fig.s1_4x1_method.m :  The demo code calculating the UIWS, UDWS, UFWS, and WS, please see Fig.s1;
 
-(4)demo_plot_fig.sx_diagram_duration.m :  The demo code calculating the independent WS events, See Fig.sx.diagram_duration.jpg;
+(4) demo_plot_fig.sx_diagram_duration.m :  The demo code calculating the independent WS events, See Fig.sx.diagram_duration.jpg;
 
-(5)demo_plot_fig.sx_diagram_frequency.m : The demo code calculating frequency of WS, please see Fig.sx.diagram_frequency;
+(5) demo_plot_fig.sx_diagram_frequency.m : The demo code calculating frequency of WS, please see Fig.sx.diagram_frequency;
 
-(6)Fig.s1.jpg :  The Expected output.
+(6) Fig.s1.jpg :  The Expected output.
 
-(7)Fig.sx.diagram_duration.jpg :  he Expected output.
+(7) Fig.sx.diagram_duration.jpg :  he Expected output.
 
-(8)Fig.sx.diagram_frequency.jpg :  The Expected output.
+(8) Fig.sx.diagram_frequency.jpg :  The Expected output.
 
 The use of these codes The package has been tested on the Windows systems with MATLAB software.The package has been tested on the following systems MATLAB Version 9.10.0.1602886 (R2021a) Operating System Microsoft Windows 10 Professional Version 10.0 (Build 19044)
 
