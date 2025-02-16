@@ -1,5 +1,5 @@
 # Unprecedented_WS
-The codes to calculate unprecedented water scarcity (UWS): unprecedented intensity of water scarcity (UIWS), the unprecedented duration of water scarcity (UDWS), the unprecedented frequency of water scarcity (UFWS),and conventional water scarcity (WS). 
+The codes to calculate unprecedented water scarcity (UWS): unprecedented intensity of water scarcity (UIWS), the unprecedented duration of water scarcity (UDWS), the unprecedented frequency of water scarcity (UFWS), and conventional water scarcity (WS). 
 
 We provide a virtual time series that exactly matches the length of our research data, which is monthly data from 1850 to 2100, with a length of 3012. The MATLAB files are placed in the same folder. Navigate to this folder and directly run each demo file. You can obtain the schematic diagram. The key parameters for obtaining this diagram are consistent with the main text.
 
