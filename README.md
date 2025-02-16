@@ -6,7 +6,7 @@ We provide a virtual time series that exactly matches the length of our research
 
 The Repositories includes five files
 
-(1)READMEs :   A description file of instructions for reproducing the key results (identify UWS: UIWS, UDWS, UFWS, and WS);
+(1) my_kstest2:   Two-sample Kolmogorov-Smirnov goodness-of-fit hypothesis test;
 
 (2)cal_TFE_mon_demo.m :   The Core function to calculate UWS, which must be placed in current working directory;
 
