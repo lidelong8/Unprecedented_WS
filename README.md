@@ -8,19 +8,21 @@ The Repositories include five files
 
 (1) my_kstest2 :   Two-sample Kolmogorov-Smirnov goodness-of-fit hypothesis test;
 
-(2) cal_TFE_mon_fixed.m :   The Core function to calculate UWS, which must be placed in current working directory;
+(2) cal_UWS_mon_fixed.m :   The Core function to calculate UWS with the fixed reference periods during 1850-2015, which must be placed in the current working directory;
 
-(3) demo_plot_Fig.s1_4x1_method.m :  The demo code calculating the UIWS, UDWS, UFWS, and WS, please see Fig.s1;
+(3) cal_UWS_mon_dynamic.m :   The function to calculate UWS considering the dynamic reference periods, which must be placed in the current working directory;
 
-(4) demo_plot_fig.sx_diagram_duration.m :  The demo code calculating the independent WS events, See Fig.sx.diagram_duration.jpg;
+(4) demo_plot_Fig.s1_4x1_method.m :  The demo code calculating the UIWS, UDWS, UFWS, and WS, please see Fig.s1;
 
-(5) demo_plot_fig.sx_diagram_frequency.m : The demo code calculating frequency of WS, please see Fig.sx.diagram_frequency;
+(5) demo_plot_fig.sx_diagram_duration.m :  The demo code calculating the independent WS events, See Fig.sx.diagram_duration.jpg;
 
-(6) Fig.s1.jpg :  The Expected output.
+(6) demo_plot_fig.sx_diagram_frequency.m : The demo code calculating frequency of WS, please see Fig.sx.diagram_frequency;
 
-(7) Fig.sx.diagram_duration.jpg :  he Expected output.
+(7) Fig.s1.jpg : Schematic diagram of identifying unprecedented water scarcity (UWS) and the first emergence year.
 
-(8) Fig.sx.diagram_frequency.jpg :  The Expected output.
+(8) Fig.sx.diagram_independent_events.jpg : Schematic diagram of identifying independent water scarcity (WS) events.
+
+(9) Fig.sx.diagram_frequency.jpg :  Schematic diagram of identifying the frequency of water scarcity (WS).
 
 
 The package has been tested on Windows systems with MATLAB software. The package has been tested on the following systems: MATLAB Version 9.10.0.1602886 (R2021a) Operating System Microsoft Windows 10 Professional Version 10.0 (Build 19044)
