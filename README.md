@@ -22,7 +22,7 @@ The Repositories include five files
 
 (8) Fig.sx.diagram_frequency.jpg :  The Expected output.
 
-**The use of these codes. **
+
 The package has been tested on Windows systems with MATLAB software. The package has been tested on the following systems: MATLAB Version 9.10.0.1602886 (R2021a) Operating System Microsoft Windows 10 Professional Version 10.0 (Build 19044)
 
 Firstly, unzip these files on your computer, then modify the working directory to your Unzip folder and Run. You are expected to obtain three images.
